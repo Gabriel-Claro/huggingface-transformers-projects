@@ -1,0 +1,7 @@
+transformers==4.56.0
+torch
+pandas
+matplotlib
+plotly
+wordcloud
+gradio
